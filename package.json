@@ -67,7 +67,7 @@
     "scrypt-async": "^1.2.0",
     "tweetnacl": "0.13.2",
     "tweetnacl-util": "0.15.0",
-    "web3": "0.20.2"
+    "web3": "0.20.3"
   },
   "devDependencies": {
     "async": "^1.4.2",
